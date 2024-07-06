@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #06ffe6;
+    justify-content: center;
+}
+.container{
+    background-color: #a1e80a;
+    width: 30%;
+    margin: auto;
+    margin-top: 350px;
+    border-radius: 20px;
+    padding: 30px;
+}
+#clock{
+    font-size: 50px;
+    background-color: rgb(243, 236, 236);
+    border-radius: 10px;
+    margin: auto;
+}
+span{
+    color: #2d10d1;
+    font-size: xx-large;
+}
+#results{
+    font-size: 30px;
+    background-color: #9de313;
+}
